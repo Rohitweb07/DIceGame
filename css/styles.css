@@ -1,0 +1,22 @@
+body{
+  background-color:#808080;
+}
+h1
+{
+  text-align: center;
+  font-size: 8rem;
+  font-family: 'Lobster', cursive;
+  color:#0066FF;
+
+}
+p
+{
+  font-size: 2rem;
+  padding-left: 200px;
+  color:#0000ff;
+  font-family: 'Squada One', cursive;
+}
+.img1
+{
+  width:70%;
+}
